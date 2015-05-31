@@ -1,0 +1,4 @@
+Another Post
+Grayson Pike
+This is another post, which is written to demonstrate the multiple post abilities of this script.
+
